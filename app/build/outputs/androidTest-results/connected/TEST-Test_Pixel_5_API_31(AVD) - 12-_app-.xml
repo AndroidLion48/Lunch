@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.lunchtray.NavigationTests" tests="9" failures="0" errors="0" skipped="0" time="19.547" timestamp="2022-12-02T02:50:34" hostname="localhost">
+  <properties>
+    <property name="device" value="Test_Pixel_5_API_31(AVD) - 12" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="navigate_to_start_order_from_checkout" classname="com.example.lunchtray.NavigationTests" time="1.827" />
+  <testcase name="navigate_to_start_order_from_entree_menu" classname="com.example.lunchtray.NavigationTests" time="0.896" />
+  <testcase name="navigate_to_checkout_from_accompaniment_menu" classname="com.example.lunchtray.NavigationTests" time="1.249" />
+  <testcase name="navigate_to_entree_menu_from_start_order" classname="com.example.lunchtray.NavigationTests" time="0.744" />
+  <testcase name="navigate_to_start_order_from_checkout_via_submit" classname="com.example.lunchtray.NavigationTests" time="1.19" />
+  <testcase name="navigate_to_start_order_from_accompaniment_menu" classname="com.example.lunchtray.NavigationTests" time="1.342" />
+  <testcase name="navigate_to_accompaniment_menu_from_side_menu" classname="com.example.lunchtray.NavigationTests" time="1.287" />
+  <testcase name="navigate_to_start_order_from_side_menu" classname="com.example.lunchtray.NavigationTests" time="1.264" />
+  <testcase name="navigate_to_side_menu_from_entree_menu" classname="com.example.lunchtray.NavigationTests" time="1.404" />
+</testsuite>
